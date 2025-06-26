@@ -6,7 +6,7 @@ function App() {
     <div className="App" style={styles.app}>
       <header style={styles.header}>
         <h1 style={styles.title}>John Doe</h1>
-        <p style={styles.subtitle}>DevOps Engineer | AWS | Docker | Kubernetes</p>
+        <p style={styles.subtitle}>DevOps Engineer | AWS | Docker </p>
       </header>
 
       <nav style={styles.nav}>
