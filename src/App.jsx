@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App" style={styles.app}>
       <header style={styles.header}>
-        <h1 style={styles.title}>Kalash</h1>
+        <h1 style={styles.title}>Kalash Sanoniya</h1>
         <p style={styles.subtitle}>DevOps Engineer | AWS | Docker </p>
       </header>
 
